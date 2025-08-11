@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hidrovías de Argentina y Sudamérica</title>
+</head>
+<body>
+
+  <!-- Encabezado de la página -->
+  <header>
+    <h1>Hidrovías de Argentina y Sudamérica</h1>
+    <p>Las <strong>hidrovías</strong> son rutas fluviales utilizadas para el transporte de mercancías y personas. En Sudamérica, la más importante es la <strong>Hidrovía Paraguay-Paraná</strong>, que conecta varios países y representa una vía estratégica para el comercio regional.</p>
+  </header>
+
+  <!-- Navegación principal -->
+  <nav>
+    <ul>
+      <li><a href="#que-es">¿Qué es una hidrovía?</a></li>
+      <li><a href="#hidrovia">La Hidrovía Paraguay-Paraná</a></li>
+      <li><a href="#pais">Países que integran la hidrovía</a></li>
+      <li><a href="#economica">Importancia económica</a></li>
+      <li><a href="#ventajas">Ventajas del transporte</a></li>
+      <li><a href="#puertos">Principales puertos y ciudades</a></li>
+      <li><a href="#impacto">Impacto ambiental y desafíos</a></li>
+      <li><a href="#video">Video explicativo</a></li>
+    </ul>
+  </nav>
+
+  <!-- Contenido principal de la página -->
+  <main>
+    <!-- Sección sobre qué es una hidrovía -->
+    <section id="que-es">
+      <h2>¿Qué es una hidrovía?</h2>
+      <p>Una hidrovía es una vía navegable natural o artificial que permite el tránsito de embarcaciones. Estas rutas son <span style="color:rgb(0, 0, 0);">vitales para el transporte fluvial</span> y complementan el sistema de transporte terrestre.</p>
+    </section>
+
+    <!-- Artículo sobre la Hidrovía Paraguay-Paraná -->
+    <article id="hidrovia">
+      <h2>La Hidrovía Paraguay-Paraná</h2>
+      <p>Esta es una de las hidrovías más largas del mundo. Recorre aproximadamente 3.442 kilómetros desde Puerto Cáceres, en Brasil, hasta el Puerto de Nueva Palmira, en Uruguay.</p>
+    </article>
+
+    <!-- Sección sobre los países que integran la hidrovía -->
+    <section id="pais">
+      <h3>Países que integran la hidrovía</h3>
+      <ul>
+        <li><strong>Argentina</strong>: tramo final hacia el Océano Atlántico.</li>
+        <li><strong>Paraguay</strong>: país sin salida al mar que depende mucho de esta vía.</li>
+        <li><strong>Bolivia</strong>: accede a la hidrovía a través del río Paraguay.</li>
+        <li><strong>Brasil</strong>: origen de la hidrovía, en Mato Grosso.</li>
+        <li><strong>Uruguay</strong>: puerto de salida para muchas cargas.</li>
+      </ul>
+    </section>
+
+    <!-- Sección sobre la importancia económica -->
+    <section id="economica">
+      <h3>Importancia económica</h3>
+      <p>La hidrovía es esencial para la exportación de productos agrícolas como la <strong>soja, el maíz y el trigo</strong>. También se transportan combustibles, fertilizantes y minerales.</p>
+    </section>
+
+    <!-- Sección sobre las ventajas del transporte por hidrovía -->
+    <section id="ventajas">
+      <h4>Ventajas del transporte por hidrovía</h4>
+      <ol>
+        <li>Menor costo logístico comparado con el transporte terrestre.</li>
+        <li>Reducción de la huella de carbono.</li>
+        <li>Mayor capacidad de carga.</li>
+      </ol>
+    </section>
+
+    <!-- Sección sobre los principales puertos y ciudades -->
+    <section id="puertos">
+      <h5>Principales puertos y ciudades</h5>
+      <ul>
+        <li><strong>Rosario</strong> (Argentina)</li>
+        <li><strong>Asunción</strong> (Paraguay)</li>
+        <li><strong>Corumbá</strong> (Brasil)</li>
+        <li><strong>Puerto Quijarro</strong> (Bolivia)</li>
+        <li><strong>Nueva Palmira</strong> (Uruguay)</li>
+      </ul>
+    </section>
+
+    <!-- Sección sobre el impacto ambiental y los desafíos -->
+    <section id="impacto">
+      <h2>Impacto ambiental y desafíos</h2>
+      <p>Aunque la hidrovía es una solución eficiente, también genera impactos ambientales. Algunos sectores denuncian la pérdida de biodiversidad y el aumento del tráfico de embarcaciones como amenazas al ecosistema.</p>
+    </section>
+
+    <!-- Video explicativo -->
+    <section id="video">
+      <h2>Video explicativo</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/0ejtZVeIK5I?si=8tPlDQ3fghpZ6PR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+  </main>
+
+  <!-- Barra lateral (Asides) -->
+  <aside>
+    <h2>Datos adicionales</h2>
+    <p>La Hidrovía Paraguay-Paraná tiene una gran importancia para el comercio de granos en la región, permitiendo la exportación de miles de toneladas anuales.</p>
+  </aside>
+
+  <!-- Pie de página -->
+  <footer>
+    <p>&copy; 2025 Hidrovías de Argentina y Sudamérica</p>
+  </footer>
+
+</body>
+</html>
